@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mapBox</string>
+    <string name="access_token">pk.eyJ1IjoibmVjYXM2OSIsImEiOiJja3g3b3VmMjkwODl0MnJxY3FwazJiaDNuIn0.HDM9n4SnG7uDIu92I_CSdw</string>
+    <string name="comecar_navegacao">Começar navegação</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
